@@ -2,7 +2,7 @@
 
 Hello everyone!
 Hope you all are doing well. 
-I am Rupsalin Pradhan currently working as a Web Development and Designing Intern at The Sparks Foundation.
+I am Harshitha S currently working as a Web Development and Designing Intern at The Sparks Foundation.
 This is the #task1 given to me.
 Task 1 - Basic banking System
 Create a simple dynamic website which has the following specs. 
